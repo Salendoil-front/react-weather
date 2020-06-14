@@ -1,0 +1,7 @@
+nav {
+  user-select: none;
+}
+
+nav ul li .a-navlink:hover {
+  /* background: none; */
+}
